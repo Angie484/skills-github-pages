@@ -3,6 +3,10 @@ title: "The Resilient Coder: Chronicle 1: Chronicles of Laughter, Lies, and Elec
 date: 2024-01-24
 ---
 
+---
+### Author: Angelika St. Fleurose
+---
+
 ####  Ah, the timeless tale every Active, Former, or Future Sailor will regale you with—the infamous recruiter fib! Picture this: there I was, innocently savoring lunch with a friend, when I stumbled upon another pal reading pamphlets. Being the sociable soul that I am, I casually strolled over, exchanged pleasantries, and found myself face-to-face with a vision in Blue NWUs (Navy Working Uniform). What caught my attention, you ask? Well, it was the captivating uniform and flawless makeup (cue my undying passion for all things cosmetic). 
 
 ####  Now, enter the recruiter—a dazzling woman in Blue NWUs, armed with promises and a knack for persuasive conversation. When asked about my post-high school plans, I confidently declared, "College. I want to be a Software Engineer." Little did I know, this innocent exchange would lead me down a rabbit hole of Navy-related surprises. 
