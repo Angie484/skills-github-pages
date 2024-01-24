@@ -16,7 +16,7 @@ title: Welcome, to the Realm of Angie
 
 ### In the tapestry of my life, each thread represents a lesson learned, a hurdle overcome, and a dream pursued. Together, let's create a narrative that resonates with anyone striving to merge their passions, overcome challenges, and emerge victorious.
 
-### <h3> Welcome to a space where tech meets beauty, dreams become reality, and every line of code and stroke of makeup brush tells a story of resilience and triumph. This is not just my journey; it's an invitation for you to embark on yours.
+### Welcome to a space where tech meets beauty, dreams become reality, and every line of code and stroke of makeup brush tells a story of resilience and triumph. This is not just my journey; it's an invitation for you to embark on yours.
 
 ### Let's code and contour our way to success – because in this journey, we are the architects of our own dreams.
 
