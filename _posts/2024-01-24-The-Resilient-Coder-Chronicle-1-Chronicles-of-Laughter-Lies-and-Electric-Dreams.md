@@ -1,10 +1,7 @@
 ---
 title: "The Resilient Coder: Chronicle 1: Chronicles of Laughter, Lies, and Electric Dreams"
 date: 2024-01-24
----
-
----
-### Author: Angelika St. Fleurose
+Author: Angelika St.Fleurose
 ---
 
 ####  Ah, the timeless tale every Active, Former, or Future Sailor will regale you with—the infamous recruiter fib! Picture this: there I was, innocently savoring lunch with a friend, when I stumbled upon another pal reading pamphlets. Being the sociable soul that I am, I casually strolled over, exchanged pleasantries, and found myself face-to-face with a vision in Blue NWUs (Navy Working Uniform). What caught my attention, you ask? Well, it was the captivating uniform and flawless makeup (cue my undying passion for all things cosmetic). 
@@ -21,8 +18,9 @@ date: 2024-01-24
 
 
 
+### __To Be Continued…__
 
 
-### To be continued…
-
-### Don't miss the next installment of The Resilient Coder's misadventures. The journey continues, and who knows what awaits in the chapters to come. Get ready for more laughter, more shocks, and an electric dose of the unexpected. See you on the next page!
+---
+### **Don't miss the next Chronicle of The Resilient Coder's Adventures. The journey continues, and who knows what awaits in the chapters to come. Get ready for more laughter, more shocks, and an electric dose of the unexpected. Stay tuned!**
+---
